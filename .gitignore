@@ -14,12 +14,6 @@ __pycache__/
 venv/
 .ipynb_checkpoints/
 
-# ===== common outputs =====
-output/
-outputs/
-result/
-results/
-
 # ===== archives =====
 *.zip
 *.rar
@@ -45,4 +39,5 @@ lightning_logs/
 .DS_Store
 .vscode/
 
-Final_Project/gencode.v43.transcripts.noN.fa
+# ===== test data =====
+*.fa
