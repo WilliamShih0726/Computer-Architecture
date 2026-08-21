@@ -9,4 +9,4 @@ Please review the url below
 https://hackmd.io/@SHIHCW/rJ4ZQECpxg
 
 
-gencode.v43.transcripts.noN.fa 太大，沒一起更新（.gitignore有包）
+.fa檔為測資，檔案過大，沒有上傳於github（.gitignore有包）
