@@ -4,7 +4,7 @@
 Please review the url below
 https://hackmd.io/@SHIHCW/SJOpzNATgg
 
-## Final Project 1
+## Final Project 2
 Please review the url below
 https://hackmd.io/@SHIHCW/rJ4ZQECpxg
 
